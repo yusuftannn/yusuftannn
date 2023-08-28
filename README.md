@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yusuftann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuftann" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yusuftann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuftann" height="30" width="40" /></a>
   <a href="mailto:yusuftan41@hotmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/d585728645751dc3f22ca3335a109163ffa8dab0c72457f1cd205194f73ca7e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d656d61696c2d4337314133363f267374796c653d666f722d7468652d6261646765266c6f676f3d266c6f676f436f6c6f723d7768697465" alt="email" style="max-width:100%"/></a>
 </p>
 
