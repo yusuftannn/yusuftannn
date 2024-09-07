@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yusuftann" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuftann" height="30" width="40" /></a>
-  <a href="mailto:yusuftan41@hotmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/794d48c07634094ee54370f0e636151b416c54875ca563694f4677ee1eb007e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d656d61696c2d4337314133363f267374796c653d666f722d7468652d6261646765266c6f676f3d266c6f676f436f6c6f723d7768697465](https://camo.githubusercontent.com/42345adbe83902b7333bdde7be1170bce0594346eb10ca16858f9f57ad5576ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d656d61696c2d4337314133363f267374796c653d666f722d7468652d6261646765266c6f676f3d266c6f676f436f6c6f723d7768697465" alt="email" style="max-width:100%"/></a>
+  <a href="mailto:yusuftan41@hotmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/42345adbe83902b7333bdde7be1170bce0594346eb10ca16858f9f57ad5576ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d656d61696c2d4337314133363f267374796c653d666f722d7468652d6261646765266c6f676f3d266c6f676f436f6c6f723d7768697465" alt="email" style="max-width:100%"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
